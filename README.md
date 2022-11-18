@@ -6,5 +6,5 @@ In this repository, I use PyCaret to solve a binary classification problem, expe
 
 The dataset used is the employee dataset, one of the sample datasets provided by PyCaret.
 
-Dependency
+#### Required version:
 - Python 3
